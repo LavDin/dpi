@@ -69,6 +69,6 @@ export default [
   },
   {
     code: '0010001110111110111001010',
-    keywords: 'Turtle, slow download speed'
+    keywords: 'turtle, speed'
   },
 ]
